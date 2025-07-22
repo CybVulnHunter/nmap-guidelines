@@ -1,6 +1,6 @@
-![Banner]![images](https://github.com/user-attachments/assets/9b6b8100-f6ca-4b2b-a526-37e7da450dfd)
-()
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b6b8100-f6ca-4b2b-a526-37e7da450dfd" alt="Banner" width="600"/>
+</p>
 
 ## GitHub ID: [CybVulnHunter](https://github.com/CybVulnHunter)
 
